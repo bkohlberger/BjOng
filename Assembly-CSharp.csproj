@@ -62,8 +62,31 @@
   <ItemGroup>
     <Compile Include="Assets\BallControl.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\MagicParticlesLite\Script.cs" />
     <Compile Include="Assets\PlayerControls.cs" />
     <Compile Include="Assets\SideWalls.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\Misc\RandomColor.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\Misc\RandomRotation.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\Misc\RandomSize.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\Misc\RandomSprite.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\ParallaxMovement.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\ShootingStar.cs" />
+    <Compile Include="Assets\SpaceAssets\Scripts\SpaceManager.cs" />
+    <None Include="Assets\NextGenSprites\Shaders\Standard Shadowy\NGS_Unlit_Shadow.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\Standard\NGS_Unlit.shader" />
+    <None Include="Assets\GlowLevels.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\FX\NGS_Lava.shader" />
+    <None Include="Assets\NextGenSprites\Changelog.txt" />
+    <None Include="Assets\NextGenSprites\Shaders\NGS.cginc" />
+    <None Include="Assets\NextGenSprites\Shaders\FX\NGS_Glass.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\Standard Shadowy\NGS_Multi_Shadow.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\Standard\NGS_Single.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\FX\NGS_Unlit_MegaStack.shader" />
+    <None Include="Assets\NextGenSprites\Readme.txt" />
+    <None Include="Assets\NextGenSprites\Shaders\Standard Shadowy\NGS_Single_Shadow.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\Standard\NGS_Multi.shader" />
+    <None Include="Assets\NextGenSprites\Shaders\FX\NGS_Liquid.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Git/BjOng/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

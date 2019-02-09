@@ -174,3 +174,12 @@ d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
+e4cde96991eb809354e1523cc37397d5 Assembly-CSharp.dll:.RandomRotation
+2902ff82856b7f19bac496835bd9e364 Assembly-CSharp.dll:.ShootingStar
+1588e93e3bae60652fd72d0eb547ceb3 Assembly-CSharp.dll:.SpaceManager
+a77369cdc1b5c7578216321df26fde47 Assembly-CSharp.dll:.CameraMovement
+529339cabafbc17e7c6be7bd512f4913 Assembly-CSharp.dll:.RandomSize
+9ade3640eb2a3169264bcd8485898594 Assembly-CSharp.dll:.RandomColor
+7b00f9eb8839d962cd29f91ee0a7e80f Assembly-CSharp.dll:.RandomSprite
+0b837bce249a547fb0c51be0413e1854 Assembly-CSharp.dll:.ParallaxMovement
+54edf36b0cde4fb5253755a3582248b2 Assembly-CSharp.dll:.Script
