@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Library
+
+/.vs/BjOng/v15
+/Library/metadata
