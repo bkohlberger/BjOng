@@ -63,6 +63,7 @@
     <Compile Include="Assets\BallControl.cs" />
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\PlayerControls.cs" />
+    <Compile Include="Assets\SideWalls.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Git/BjOng/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
